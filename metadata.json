@@ -1,0 +1,8 @@
+{
+  "name": "Telugu Voice Form Assistant — సహాయక్",
+  "description": "Voice-enabled bilingual form assistant for Telugu speakers. Hear questions spoken in natural Telugu, speak or type your answers, automatically translate and validate form fields, and generate ready-to-print application PDFs.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
